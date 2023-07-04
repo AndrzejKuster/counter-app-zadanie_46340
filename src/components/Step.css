@@ -1,0 +1,10 @@
+.step {
+    margin-top: 15px;
+    color: blue;
+    font-weight: 700;
+}
+
+input {
+    margin-left: 10px;
+    width: 60px;
+}
